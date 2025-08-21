@@ -3,7 +3,7 @@
 ## Objective
 - To visualise cleaned data loaded into SQL Pagilla database from ETL pipeline
 
-Visit Part 1 of Natural Disaster Project at https://github.com/ha282/natural-disasters/tree/main.
+Visit Part 1 of Natural Disaster ETL Project at https://github.com/ha282/natural-disasters/tree/main.
 
 ## Setup
 1. Create virtual environment
